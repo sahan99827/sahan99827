@@ -46,9 +46,9 @@
 🗄️ Databases & Tools
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" width="40" height="40"/></a> <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a> <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/></a> <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="40" height="40"/></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahangeesara&show_icons=true&locale=en&layout=compact" alt="sahangeesara" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sahangeesara&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahangeesara&show_icons=true&locale=en" alt="sahangeesara" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahangeesara&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=sahangeesara" alt="sahangeesara" /></p>
 
