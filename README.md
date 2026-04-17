@@ -21,46 +21,18 @@
 
 - 📄 Know about my experiences **[https://www.canva.com/design/DAFSw6YH5t4/iXq6VVwgBmN_QcZxWwi4bA/edit?utm_content=DAFSw6YH5t4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFSw6YH5t4/iXq6VVwgBmN_QcZxWwi4bA/edit?utm_content=DAFSw6YH5t4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
-🤝 Connect with me:
-<p align="left">
-<a href="https://github.com/sahan99827" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sahan-geesara-samaravickrama-83b5001aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sahan.gsamaravicrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sahan.gsamaravicrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://twitter.com/sahan_geesara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://medium.com/@geesarasahan0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-</p>
-
 🚀 Tech Stack
 💻 Programming Languages
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,js,ts,php,py" alt="Languages" />
-</p>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/></a>  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/></a> </p>
 
 ⚛️ Frontend Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=angular,react,vue,vuetify,bootstrap,figma,html,css,sass" alt="Frontend" />
-</p>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/></a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="40" height="40"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/></a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vuetify" alt="Vuetify" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="40" height="40"/></a> </p>
 
 ⚙️ Backend Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,spring,laravel" alt="Backend" />
-</p>
+<p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/></a>  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="40" height="40"/></a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" height="40"/></a> </p>
 
 🗄️ Databases & Tools
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,postman,photoshop" alt="Tools" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" width="45" height="45" style="vertical-align:middle; margin-left: 5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" style="vertical-align:middle; margin-left: 5px;"/>
-</p>
-
-📊 GitHub Stats
-Adding a few dynamic cards makes a profile look much more professional:
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sahan99827&show_icons=true&theme=radical" alt="sahan99827" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahan99827&layout=compact&theme=radical" alt="sahan99827" />
-</p>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" width="40" height="40"/></a> <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a> <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/></a> <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="40" height="40"/></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=sahangeesara" alt="sahangeesara" /></p>
 
